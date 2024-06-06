@@ -1,0 +1,7 @@
+path: C:\Users\Ujjwal\OneDrive\Desktop\Home Dataset\White
+train: images\
+val: images\
+
+names:
+  0: White Ball
+
